@@ -1,0 +1,172 @@
+{
+    "main": {
+      "nombre":"Ale Guerin ",
+      "diseñadora":"DISEÑADORA",
+      "programadora":"PROGRAMADORA",
+      "filmaker":"FILMAKER",
+      "descripcion":"Soy desarrolladora web / diseñadora gráfica y audiovisual",
+      "imagen":"Agus.png",
+      "bio":"Soy estudiante de Licenciatura en Sistemas de la Información en la Universidad Nacional del Nordeste. Recibida en la tecnicatura de Comunicación gráfica y audiovisual. Tengo conocimientos en UI/UX. Me apasiona el frontend y me gusta mucho crear y construir web para generar la sensacion de alegria y comodidad. Mi ineterés es especialmente en el trabajo gráfico, el desarrollo de frontend es parte de mi campo de actividad, es el modo que mejoro constantemente mis habilidades. La fotografía y la producción audiovisual es parte de mi pasatiempo. Me encanta estar trabajando en proyectos nuevos y capturar momentos.",
+      "mensajeContacto":"Puedes escribirme a mi email personal o contactarte conmigo a mi celular",
+      "email": "timbocomunicacion@gmail.com",
+      "telefono": "+54 9 379-5-163639",
+      "linkedin":"https://www.linkedin.com/in/alejandra-agustina-guerin/",
+      "github": "https://github.com/TimboAG",
+
+      "address":{
+        "pais":"(Argentina, ",
+        "ciudad":"Corrientes)",
+        "telefono": "+54 9 379-5-163639"
+   
+      }
+    },
+    "portfolio":{
+      "proyectos": [
+        {
+          "titulo":"Pagina web",
+          "category":"Desarrollo web - El proyecto esta realizado en base al modelo vista/controlador. Con base de datos en SQL server. Se utilizo PHP, HTLM5 y bootstrap. Es una pagina web multipantalla (Responsive). http://www.fortecampos.com",
+          "imagen":"1.jpg",
+          "url":"http://www.fortecampos.com",
+          "link":"Link"
+        },  
+        {
+          "titulo":"Pagina web",
+          "category":"Desarrollo web - El proyecto esta realizado con javascript, HTML y CSS3 acompañado de bootstrap, con enlace a ventas de mercadopago. Desarrollado para multipantallas (Responsive).                                                 ",
+          "imagen":"12.png",
+          "url":"http://gatonegro.epizy.com/index.html?i=1",
+          "link":"Link"
+        }, 
+        {
+          "titulo":"Pagina web",
+          "category":"Desarrollo web - El proyecto esta realizado con  HTML, CSS3 acompañado de bootstrap, con enlace a ventas de mercadopago. Desarrollado para multipantallas (Responsive).",
+          "imagen":"13.png",
+          "url":"http://phfocusph.epizy.com/index.html?i=1",
+          "link":"Link"
+        },
+        {
+          "titulo":"Pagina web",
+          "category":"Desarrollo web - El proyecto esta realizado con ReactJs",
+          "imagen":"11.png",
+          "url":"http://ritaguerin.epizy.com/?i=1",
+          "link":"Link"
+        },
+            
+       
+        {
+          "titulo":"Diseño de Logos",
+          "category":"Diseño gráfico",
+          "imagen":"3.png"
+         
+        },
+        {
+          "titulo":"Diseño de Logos",
+          "category":"Diseño gráfico",
+          "imagen":"4.png"
+         
+        },
+        {
+          "titulo":"Diseño audiovisual y fotografía ",
+          "category":"Filmación, edición y fotografía - Focus",
+          "imagen":"9.png",
+          "url":"https://www.instagram.com/ph_focus_ph",
+          "link":"Link"
+        },
+        {
+          "titulo":"Diseño audiovisual",
+          "category":"Filmación y edición - Filmación del programa de TV Tu Permitido del finde, y realizacion de la edición, como ser zócalos, cortes, color, animaciones, efectos etc",
+          "imagen":"7.png",
+          "url":"https://www.instagram.com/tupermitidodelfinde",
+          "link":"Link"
+        }
+        ,
+        {
+          "titulo":"Diseño audiovisual",
+          "category":"Filmación y edición - Filmación del programa de canal de youtube Las Clasese de Alicia, y realizacion de la edición, como ser zócalos, cortes, color, animaciones, efectos etc",
+          "imagen":"8.png",
+          "url":"https://www.youtube.com/channel/UCatN5ux4sinxQYYYHs3bWyw",
+          "link":"Link"
+        }
+     
+      ]
+    },
+    "habilidades":{
+      "skill": [
+        {
+          "titulo":"JAVASCRIPT",
+          "porcentaje":"50%"
+           },
+           {
+            "titulo":"BOOTSTRAP",
+            "porcentaje":"90%"
+             },
+             {
+              "titulo":"HTML5",
+              "porcentaje":"80%"
+               },
+               {
+                "titulo":"VB .NET",
+                "porcentaje":"70%"
+                 },
+                 {
+                  "titulo":"SQL",
+                  "porcentaje":"40%"
+                   },
+                   {
+                    "titulo":"JAVA",
+                    "porcentaje":"50%"
+                     },
+                     {
+                      "titulo":"PHP",
+                      "porcentaje":"40%"
+                       },
+                       {
+                        "titulo":"REACT JS",
+                        "porcentaje":"40%"
+                         },
+                         {
+                          "titulo":"NODE JS",
+                          "porcentaje":"30%"
+                           }
+      ],
+      "skill2": [
+        {
+          "titulo":"WORDPRESS",
+          "porcentaje":"50%"
+           },
+           {
+            "titulo":"CSS3",
+            "porcentaje":"90%"
+             },
+             {
+              "titulo":"COREL DRAW",
+              "porcentaje":"80%"
+               },
+               {
+                "titulo":"PHOTOSHOP",
+                "porcentaje":"90%"
+                 },
+                 {
+                  "titulo":"ILUSTRATOR",
+                  "porcentaje":"55%"
+                   },
+                   {
+                    "titulo":"AFTER EFFECT",
+                    "porcentaje":"60%"
+                     },
+                     {
+                      "titulo":"PREMIERE PRO",
+                      "porcentaje":"70%"
+                       },
+                       {
+                        "titulo":"LIGHTROOM",
+                        "porcentaje":"60%"
+                         },
+                         {
+                          "titulo":"ADOBE XD",
+                          "porcentaje":"70%"
+                           }
+      ]
+    }
+
+  }
+  
